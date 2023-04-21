@@ -12,6 +12,10 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 This is the Drive Link to Model.pkl File of the project - https://drive.google.com/file/d/1QSnhkORXLjb6PDlFZVv54evfg-vQmoNT/view?usp=share_link
 
 
+
+https://user-images.githubusercontent.com/90331829/233658457-76148418-5aba-4344-b0bb-7d19b816e012.mp4
+
+
 TOP 3 Performing Models
 * RandomForestClassifier : 91.3%
 * BaggingClassifier      : 93%
