@@ -17,6 +17,6 @@ https://user-images.githubusercontent.com/90331829/233658457-76148418-5aba-4344-
 
 
 TOP 3 Performing Models
+* Bagging  Classifier    : 93%
 * RandomForestClassifier : 91.3%
-* BaggingClassifier      : 93%
 * DecisionTreeClassifier : 89%
